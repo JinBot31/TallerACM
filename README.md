@@ -1,4 +1,10 @@
-# 🧠 Talleres de Inversión de Control (IoC) en Spring
+# 🧠 Talleres de Inversión de Control (IoC) en Spring - Grupo 3
+
+## Integrantes
+- Andrés Felipe Ruiz Perilla
+- Camilo Andrés Guasca Bulla
+- Juan Manuel Castillo Acevedo
+- Silvana Martínez Pardo
 
 ## 📘 Introducción
 
